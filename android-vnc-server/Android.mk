@@ -39,9 +39,10 @@ LOCAL_C_INCLUDES := \
 	external/zlib \
 	external/jpeg
 
-LOCAL_SHARED_LIBRARIES := libz
-LOCAL_STATIC_LIBRARIES := libjpeg
+LOCAL_SHARED_LIBRARIES := libz \
+			  libjpeg
 
+LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE:= androidvncserver
 
 include $(BUILD_EXECUTABLE)

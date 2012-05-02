@@ -15,3 +15,6 @@ Procedures:
 5. optional to step 4, using wifi, like 192.168.1.104:5901
 6. optional to step 4, using usb0, like 192.168.1.105:5901
 7. If want quit, adb shell ps|grep androidvncserver and then kill pid
+
+Build Note:
+1. Not capable with distcc so 'unset CCACHE_PREFIX' and then make androidvncserver under android src enviroment
