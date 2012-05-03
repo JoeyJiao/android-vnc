@@ -3,6 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_SRC_FILES:= \
 	fbvncserver.c \
+	suinput.c \
 	LibVNCServer-0.9.7/libvncserver/main.c \
 	LibVNCServer-0.9.7/libvncserver/rfbserver.c \
 	LibVNCServer-0.9.7/libvncserver/rfbregion.c \

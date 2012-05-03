@@ -1,1 +1,23 @@
 [ProjectDates]
+[TreeExpansion2]
+scroll:0
+[State]
+SCREEN: 1280 800 0 24 1280 776 0 0 N 0 0 0 0 1033 343 0
+CWD: ../../../../.slickedit/16.0.3
+BUFFER: BN="android-vnc-server/fbvncserver.c"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=864 TL=0 MLL=0 ASE=0 LNL=6 LCF=6 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.14127 CL=13 LE=0 CX=10 CY=6 WI=5 BI=21 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 800 242 0 0 M  WF=0 WT=2 ",,,"
+BUFFER: BN="android-vnc-server/fbvncserver.c"
+VIEW: LN=.3742 CL=25 LE=0 CX=29 CY=8 WI=246 BI=21 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+../../kernel/msm/arch/arm/mach-msm/clock.c
+../../kernel/msm/drivers/video/msm/mdp_dma_lcdc.c
+../../kernel/msm/drivers/video/msm/mdp.c
+../../kernel/msm/drivers/video/msm/lcdc_ili9481d_hvga.c
+../../kernel/msm/include/linux/usb/android_composite.h
+../../kernel/msm/drivers/video/msm/lcdc_huawei_config.c
+../../kernel/msm/drivers/video/msm/lcdc_huawei_config.h
+../../kernel/kernel-2.6.32-V858/scripts/checkpatch.pl
+android-vnc-server/fbvncserver.c
+TBCLASS: 0 0
